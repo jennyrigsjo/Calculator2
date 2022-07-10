@@ -1,0 +1,15 @@
+C:\Users\jenny\Dropbox\Kurser\Lexicon\inlämningsuppgifter\vecka 27\Calculator2\Calculator2\bin\Debug\net6.0\Calculator2.exe
+C:\Users\jenny\Dropbox\Kurser\Lexicon\inlämningsuppgifter\vecka 27\Calculator2\Calculator2\bin\Debug\net6.0\Calculator2.deps.json
+C:\Users\jenny\Dropbox\Kurser\Lexicon\inlämningsuppgifter\vecka 27\Calculator2\Calculator2\bin\Debug\net6.0\Calculator2.runtimeconfig.json
+C:\Users\jenny\Dropbox\Kurser\Lexicon\inlämningsuppgifter\vecka 27\Calculator2\Calculator2\bin\Debug\net6.0\Calculator2.dll
+C:\Users\jenny\Dropbox\Kurser\Lexicon\inlämningsuppgifter\vecka 27\Calculator2\Calculator2\bin\Debug\net6.0\Calculator2.pdb
+C:\Users\jenny\Dropbox\Kurser\Lexicon\inlämningsuppgifter\vecka 27\Calculator2\Calculator2\obj\Debug\net6.0\Calculator2.csproj.AssemblyReference.cache
+C:\Users\jenny\Dropbox\Kurser\Lexicon\inlämningsuppgifter\vecka 27\Calculator2\Calculator2\obj\Debug\net6.0\Calculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenny\Dropbox\Kurser\Lexicon\inlämningsuppgifter\vecka 27\Calculator2\Calculator2\obj\Debug\net6.0\Calculator2.AssemblyInfoInputs.cache
+C:\Users\jenny\Dropbox\Kurser\Lexicon\inlämningsuppgifter\vecka 27\Calculator2\Calculator2\obj\Debug\net6.0\Calculator2.AssemblyInfo.cs
+C:\Users\jenny\Dropbox\Kurser\Lexicon\inlämningsuppgifter\vecka 27\Calculator2\Calculator2\obj\Debug\net6.0\Calculator2.csproj.CoreCompileInputs.cache
+C:\Users\jenny\Dropbox\Kurser\Lexicon\inlämningsuppgifter\vecka 27\Calculator2\Calculator2\obj\Debug\net6.0\Calculator2.dll
+C:\Users\jenny\Dropbox\Kurser\Lexicon\inlämningsuppgifter\vecka 27\Calculator2\Calculator2\obj\Debug\net6.0\refint\Calculator2.dll
+C:\Users\jenny\Dropbox\Kurser\Lexicon\inlämningsuppgifter\vecka 27\Calculator2\Calculator2\obj\Debug\net6.0\Calculator2.pdb
+C:\Users\jenny\Dropbox\Kurser\Lexicon\inlämningsuppgifter\vecka 27\Calculator2\Calculator2\obj\Debug\net6.0\Calculator2.genruntimeconfig.cache
+C:\Users\jenny\Dropbox\Kurser\Lexicon\inlämningsuppgifter\vecka 27\Calculator2\Calculator2\obj\Debug\net6.0\ref\Calculator2.dll
