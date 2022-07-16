@@ -1,5 +1,5 @@
 # Calculator2
-Lexicon Assignment 3: Test-Calculator
+**Lexicon Assignment 3: Calculator with xUnit tests**
 
 Your assignment for this week is to test the previously created calculator. You shall also overload your addition(+) and subtract(-) methods with versions that takes an array as input parameter.
 
